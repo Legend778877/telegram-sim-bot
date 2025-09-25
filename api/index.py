@@ -4,7 +4,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 # 🔑 Yahan aapka Bot Token fix kar diya gaya hai
-TOKEN = "8223005238:AAHPP_UDM2NNI9H6785X9kdAjMB53_tdZ7Q"
+TOKEN = "8223005238:AAEy_aIvou80QDy2W1E6JRFycLd5KqVj2qY"
 URL = f"https://api.telegram.org/bot{TOKEN}/"
 
 # ------------------- Format Function -------------------
